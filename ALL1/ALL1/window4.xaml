@@ -1,0 +1,22 @@
+﻿<Window x:Class="ALL1.window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ALL1"
+        mc:Ignorable="d"
+        Title="window4" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="D:\Work 3\Compilatoare\p3.jpg" Stretch="UniformToFill"/>
+
+        </Grid.Background>
+
+      
+        <Button Content="Next" HorizontalAlignment="Left" Margin="677,384,0,0" VerticalAlignment="Top" Click="Button_Click" Width="77" Height="26" FontFamily="Times New Roman" FontSize="20"/>
+        <Button x:Name="button_start" Content="Start" HorizontalAlignment="Left" Margin="278,25,0,0" VerticalAlignment="Top"  Width="77" Height="26" FontFamily="Times New Roman" FontSize="20" Click="Button_Click_1"/>
+        <Label x:Name="label_start" Content="Table construction..." HorizontalAlignment="Left" Margin="63,17,0,0" VerticalAlignment="Top" FontFamily="Script MT Bold" FontSize="24" Foreground="#FFF4EFEF" Height="34" Width="210"/>
+       
+    </Grid>
+
+</Window>

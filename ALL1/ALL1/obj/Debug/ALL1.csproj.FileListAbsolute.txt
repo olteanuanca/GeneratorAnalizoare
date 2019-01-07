@@ -1,0 +1,63 @@
+D:\Work 3\Compilatoare\ALL1\ALL1\bin\Debug\ALL1.exe.config
+D:\Work 3\Compilatoare\ALL1\ALL1\bin\Debug\ALL1.exe
+D:\Work 3\Compilatoare\ALL1\ALL1\bin\Debug\ALL1.pdb
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.csprojAssemblyReference.cache
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\MainWindow.g.cs
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\App.g.cs
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1_MarkupCompile.cache
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1_MarkupCompile.lref
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\MainWindow.baml
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.g.resources
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.Properties.Resources.resources
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.csproj.GenerateResource.cache
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.csproj.CoreCompileInputs.cache
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.exe
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\ALL1.pdb
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\window2.g.cs
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\window2.baml
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\window3.g.cs
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\window3.baml
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\window4.g.cs
+D:\Work 3\Compilatoare\ALL1\ALL1\obj\Debug\window4.baml
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\bin\Debug\ALL1.exe.config
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\bin\Debug\ALL1.exe
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\bin\Debug\ALL1.pdb
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.csprojAssemblyReference.cache
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\MainWindow.g.cs
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\window2.g.cs
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\window3.g.cs
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\window4.g.cs
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\App.g.cs
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1_MarkupCompile.cache
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1_MarkupCompile.lref
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\MainWindow.baml
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\window2.baml
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\window3.baml
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\window4.baml
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.g.resources
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.Properties.Resources.resources
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.csproj.GenerateResource.cache
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.csproj.CoreCompileInputs.cache
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.exe
+D:\Work 3\Compilatoare\ALL1 FINAL\ALL1\obj\Debug\ALL1.pdb
+D:\Work 3\ALL1 FINAL\ALL1\bin\Debug\ALL1.exe.config
+D:\Work 3\ALL1 FINAL\ALL1\bin\Debug\ALL1.exe
+D:\Work 3\ALL1 FINAL\ALL1\bin\Debug\ALL1.pdb
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.csprojAssemblyReference.cache
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\MainWindow.g.cs
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\window2.g.cs
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\window3.g.cs
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\window4.g.cs
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\App.g.cs
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1_MarkupCompile.cache
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1_MarkupCompile.lref
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\MainWindow.baml
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\window2.baml
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\window3.baml
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\window4.baml
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.g.resources
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.Properties.Resources.resources
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.csproj.GenerateResource.cache
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.csproj.CoreCompileInputs.cache
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.exe
+D:\Work 3\ALL1 FINAL\ALL1\obj\Debug\ALL1.pdb
